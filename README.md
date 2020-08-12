@@ -15,7 +15,7 @@ Step 5: Edit the flow to Configure the options as required
 
 
 1.	Simple email sort – Determine that the email is a reactive case and move to a reactive folder
-https://github.com/jasondb1/automatedTAM/raw/master/SimpleReactiveEmailSort_20200731164917.zip
+https://github.com/jasondb1/automatedTAM/raw/master/ProcessCustomerEmails_v1.0.3_basic.zip
 
 Functionalities:
 Classifies email as reactive
@@ -31,7 +31,8 @@ Classifies email as reactive / non-reactive
 Moves email to customer main mail box or reactive mailbox
 Classifies and moves backup accounts to a backup reactive folder
 
-https://github.com/jasondb1/automatedTAM/raw/master/ProcessCustomerEmails-noteamsintegration_20200731164122.zip
+https://github.com/jasondb1/automatedTAM/raw/master/ProcessCustomerEmails_v1.0.3_standard.zip
+
 
 Requires:
 outlook folder structure that sets up each customer
@@ -43,8 +44,8 @@ Omitted for privacy
 
 
 
-3.	Experimental Sort with teams integration - 
-https://github.com/jasondb1/automatedTAM/raw/master/Experimental-Processemailswithteamsintegration_20200731165446.zip
+3.	Process Customer Emails – with Critsit options 
+https://github.com/jasondb1/automatedTAM/raw/master/ProcessCustomerEmails_v1.0.3_with_critsit.zip
 
 Functionalities:
 Classifies email as reactive / non-reactive
